@@ -1,0 +1,18 @@
+{
+  "id": 74,
+  "category": {
+    "id": 0,
+    "name": "hotvailer"
+  },
+  "name": "Musgo",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 0,
+      "name": "hotvailer"
+    }
+  ],
+  "status": "available"
+}

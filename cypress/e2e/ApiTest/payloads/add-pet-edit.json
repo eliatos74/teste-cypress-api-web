@@ -1,0 +1,18 @@
+{
+  "id": 74,
+  "category": {
+    "id": 0,
+    "name": "Pitbull"
+  },
+  "name": "FAROFA",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 0,
+      "name": "Pitbull"
+    }
+  ],
+  "status": "available"
+}
